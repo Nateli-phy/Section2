@@ -1,0 +1,4 @@
+Conclusions:
+1. Time complexity analysis shows that in general, the time increase as our point number increase, but the rate of increasing is different. 
+2. Differences between algorithms are visible at larger n values. 
+3. Quickhull is often the fastest, while Jarvis March is slower, and the gram scan is also fast compare to Jarvis march, but it is not fast as quick hull.

@@ -1,0 +1,13 @@
+Runtime Distribution Conclusions:
+Graham Scan:
+  - Worst runtime: 9e-7 seconds
+  - Best runtime: 2.7e-7 seconds
+  - Approximate distribution: Gaussian distribution.
+Jarvis March:
+  - Worst runtime: 7e-7 seconds
+  - Best runtime: 5e-8 seconds
+  - Approximate distribution: delta function.
+Quickhull:
+  - Worst runtime: 6.7e-7 seconds
+  - Best runtime: 5e-8 seconds
+  - Approximate distribution: delta function.
