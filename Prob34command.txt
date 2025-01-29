@@ -1,0 +1,100 @@
+   45  git push origin main
+   46  cd /root/Desktop/host/P2/Problem1
+   47  git status
+   48  git add .
+   49  git commit- m
+   50  git commit -m
+   51  git commit -m "Organized files into odd and even directories, added separation script"
+   52  git push origin main
+   53  history > command_history.txt
+   54  git status
+   55  git add .
+   56  git commit
+   57  git commit -m"add history"
+   58  git push origin main
+   59  nano convert_numbers.sh
+   60  chmod +x convert_numbers.sh
+   61  ./convert_numbers.sh 125064
+   62  ./convert_numbers.sh 1266
+   63  cd /root/Desktop/host
+   64  mkdir Problem3
+   65  cd Problem3
+   66  cat convert_numbers.sh > conversion_script.txt
+   67  cd /root/Desktop/host/P2/Problem1
+   68  cat convert_numbers.sh > conversion_script.txt
+   69  mv conversion_script.txt /root/Desktop/host/Problem3/
+   70  cd /root/Desktop/host/Problem3
+   71  git init
+   72  git remote add origin https://github.com/Nateli-phy/Problem3.git
+   73  cd /root/Desktop/host/P2/Problem1
+   74  mv convert_numbers.sh /root/Desktop/host/Problem3/
+   75  cd /root/Desktop/host/Problem
+   76  /root/Desktop/host/Problem3
+   77  cd /root/Desktop/host/Problem3
+   78  git add .
+   79  git commit -m "Initial commit with conversion script"
+   80  git branch -M main
+   81  git push -u origin main
+   82  git checkout -b feature_branch
+   83  echo "hello world!" > README.md
+   84  git add README.md
+   85  git remote add https://github.com/Nateli-phy/129l.git
+   86  git remote add secondary https://github.com/Nateli-phy/129l.git
+   87  git status
+   88  git add  .
+   89  git commit
+   90  git push secondary main
+   91  git pull secondary main
+   92  git pull secondary main --allow-unrelated-histories
+   93  git status
+   94  git remote -v
+   95  git push secondary main
+   96  git pull
+   97  git status
+   98  git pull secondary main
+   99  git add .
+  100  git commit -m"add read me"
+  101  git add README.md
+  102  git commit -m"add readme"
+  103  git push secondary main
+  104  git push secondary main --force
+  105  pwd
+  106  git init
+  107  git branch
+  108  git checkout main
+  109  git remote -v
+  110  git add .
+  111  git commit -m "Initial commit for Problem3"
+  112  git push secondary main --force
+  113  cd /root/Desktop/host
+  114  git init
+  115  git branch
+  116  git status
+  117  cat main
+  118  ls -l
+  119  git push secondary main
+  120  git remote -v
+  121  git push origin main
+  122  git add .
+  123  git push origin main
+  124  git status
+  125  git add txt
+  126  git commit -m"1"
+  127  pit push origin main
+  128  pit push
+  129  git push
+  130  git push --force
+  131  git checkout -b feature_branch
+  132  git branch
+  133  git checkout feature_branch
+  134  echo "hello world!" > README.md
+  135  git add README.md
+  136  git push -u origin feature_branch
+  137  git remote -v
+  138  git status
+  139  git add README.md
+  140  git commit -m"add readme"
+  141  git push -u origin feature_branch
+  142  git pull origin main
+  143  history | tail -n 100 > Problem3&4command.txt
+  144  history | tail -n 100 > Prob34command.txt
